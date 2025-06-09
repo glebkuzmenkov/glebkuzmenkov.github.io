@@ -1,0 +1,54 @@
+.resume{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.plimg {
+    width: 25%;
+    height: 25%;
+}
+
+.mainest{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.joinBtn {
+  width: 12em;
+  height: 5ex;
+  background-color: gold;
+  border: 2px solid firebrick;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+
+.joinBtn:hover {
+  background-color: bisque;
+}
+
+.footerText {
+    color: white;
+}
+
+#me {
+    width: 30%;
+    height: 30%;
+}
+
+footer {
+    background-color: black;
+}
+
+main {
+    background-color: lightblue;
+}
+
+header {
+    border: 4mm ridge rgba(211, 220, 50, 0.6);
+    background-color: green;
+}
